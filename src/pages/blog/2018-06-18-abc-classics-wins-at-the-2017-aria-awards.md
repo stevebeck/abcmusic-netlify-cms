@@ -8,4 +8,4 @@ tags:
 ---
 ABC Classics wins at the 2017 ARIA Awards
 
-![](/img/docker.png)
+![null](/img/docker.png)
